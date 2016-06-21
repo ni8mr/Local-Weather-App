@@ -1,0 +1,39 @@
+{
+    "base": "stations",
+    "clouds": {
+        "all": 36
+    },
+    "cod": 200,
+    "coord": {
+        "lat": 23.8,
+        "lon": 90.42
+    },
+    "dt": 1466516998,
+    "id": 1188909,
+    "main": {
+        "grnd_level": 1018.96,
+        "humidity": 85,
+        "pressure": 1018.96,
+        "sea_level": 1019.61,
+        "temp": "300.615",
+        "temp_max": "300.615",
+        "temp_min": "300.615"
+    },
+    "name": "samair",
+    "sys": {
+        "country": "BD",
+        "message": 0.0119,
+        "sunrise": 1466464325,
+        "sunset": 1466513308
+    },
+    "weather": [{
+        "description": "scattered clouds",
+        "icon": "03n",
+        "id": 802,
+        "main": "Clouds"
+    }],
+    "wind": {
+        "deg": 175.003,
+        "speed": "3.41"
+    }
+}
